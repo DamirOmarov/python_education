@@ -1,0 +1,578 @@
+[{
+  "_id": {
+    "$oid": "6730615dd304a2042a0d8dc3"
+  },
+  "employee_workers": [
+    {
+      "id": "60c19410ab05133e4d562c95",
+      "_id": "60c19410ab05133e4d562c95",
+      "name": "Адильхан",
+      "surname": "Алтыбаев",
+      "patronymic": "Куатович",
+      "phone": "+7-776-107-04-44",
+      "role": {
+        "id": "5f4cda2f0796c90b114f5536",
+        "_id": "5f4cda2f0796c90b114f5536",
+        "name_system": "ksk_manager",
+        "name": "Менеджер кск"
+      },
+      "avatar": null,
+      "old_avatar": null,
+      "employee_positions": [
+        {
+          "id": "67039fbbcb6d28903e05ff03",
+          "employee": {
+            "id": "5f4cda340796c90b114f5575",
+            "name": "Инженер"
+          },
+          "ksk": {
+            "id": "6023b0488b4e6302ff2dbfaa",
+            "_id": "6023b0488b4e6302ff2dbfaa",
+            "name": "Vesta Service",
+            "is_branded": null,
+            "company_type": {
+              "id": "66448514f151b15e7104a612",
+              "sys_name": "ksk",
+              "name": "Управляющая компания"
+            },
+            "logo_image": null,
+            "main_background_image": null
+          }
+        },
+        {
+          "id": "65d7590c2a26e466c70d8083",
+          "employee": {
+            "id": "5f4cda340796c90b114f5580",
+            "name": "Техник"
+          },
+          "ksk": {
+            "id": "60c1871aab05133e4d562c8f",
+            "_id": "60c1871aab05133e4d562c8f",
+            "name": "\"Sat Group Service\"",
+            "is_branded": null,
+            "company_type": {
+              "id": "66448514f151b15e7104a612",
+              "sys_name": "ksk",
+              "name": "Управляющая компания"
+            },
+            "logo_image": null,
+            "main_background_image": null
+          }
+        }
+      ],
+      "social_status": null
+    },
+    {
+      "id": "63a194f075fc48082f076eb9",
+      "_id": "63a194f075fc48082f076eb9",
+      "name": "Ахмет",
+      "surname": "Бейсенбаев",
+      "patronymic": null,
+      "phone": "+7-702-734-74-78",
+      "role": {
+        "id": "5f4cda2f0796c90b114f5537",
+        "_id": "5f4cda2f0796c90b114f5537",
+        "name_system": "ksk_employee",
+        "name": "Исполнитель"
+      },
+      "avatar": {
+        "resource": {
+          "incrementing": true,
+          "preventsLazyLoading": false,
+          "exists": true,
+          "wasRecentlyCreated": false,
+          "timestamps": true
+        },
+        "with": [],
+        "additional": []
+      },
+      "old_avatar": "storage/avatar/2022/12/211671606209/39.jpg",
+      "employee_positions": [
+        {
+          "id": "673310674c9227b11e097c53",
+          "employee": {
+            "id": "5f4cda340796c90b114f5581",
+            "name": "Сантехник"
+          },
+          "ksk": {
+            "id": "6023b0488b4e6302ff2dbfaa",
+            "_id": "6023b0488b4e6302ff2dbfaa",
+            "name": "Vesta Service",
+            "is_branded": null,
+            "company_type": {
+              "id": "66448514f151b15e7104a612",
+              "sys_name": "ksk",
+              "name": "Управляющая компания"
+            },
+            "logo_image": null,
+            "main_background_image": null
+          }
+        }
+      ],
+      "social_status": null
+    },
+    {
+      "id": "659cef2bccdcfa0797019ece",
+      "_id": "659cef2bccdcfa0797019ece",
+      "name": "Дмитрий",
+      "surname": "Бредихин",
+      "patronymic": "Сергеевич",
+      "phone": "+7-702-132-36-58",
+      "role": {
+        "id": "5f4cda2f0796c90b114f5537",
+        "_id": "5f4cda2f0796c90b114f5537",
+        "name_system": "ksk_employee",
+        "name": "Исполнитель"
+      },
+      "avatar": {
+        "resource": {
+          "incrementing": true,
+          "preventsLazyLoading": false,
+          "exists": true,
+          "wasRecentlyCreated": false,
+          "timestamps": true
+        },
+        "with": [],
+        "additional": []
+      },
+      "old_avatar": "storage/avatar/2024/01/131705117455/21.jpg",
+      "employee_positions": [
+        {
+          "id": "67331045c1cdf4fa7c0355c0",
+          "employee": {
+            "id": "5f4cda340796c90b114f5581",
+            "name": "Сантехник"
+          },
+          "ksk": {
+            "id": "6023b0488b4e6302ff2dbfaa",
+            "_id": "6023b0488b4e6302ff2dbfaa",
+            "name": "Vesta Service",
+            "is_branded": null,
+            "company_type": {
+              "id": "66448514f151b15e7104a612",
+              "sys_name": "ksk",
+              "name": "Управляющая компания"
+            },
+            "logo_image": null,
+            "main_background_image": null
+          }
+        }
+      ],
+      "social_status": null
+    }
+  ],
+  "description": "радиаторы отопления холодные, посмотрите гребенку, может там закрыто. в квартире холодно",
+  "created_by": "user",
+  "pretty_id": 600000,
+  "is_inner": false,
+  "is_price": false,
+  "is_public": false,
+  "is_pause": false,
+  "is_overdue": false,
+  "process_id": "pi_VGLj1Ms38YHEHMrcitdWkuc0Ij",
+  "bpmn_overdue": {
+    "new": {
+      "expired": false
+    },
+    "accepted": {
+      "expired": false
+    },
+    "in_work": {
+      "expired": false
+    }
+  },
+  "technical_supervisor": false,
+  "is_sc": false,
+  "is_resumed": false,
+  "process_ids": [
+    "pi_VGLj1Ms38YHEHMrcitdWkuc0Ij"
+  ],
+  "house": {
+    "id": "66b99e0cc6bf294ce30bb5d9",
+    "address": "пр. Әл-Фараби, 7/2 (ЖК \"Zhana Urpaq\")",
+    "city": {
+      "id": "5f4cda300796c90b114f5548",
+      "name": "Астана"
+    },
+    "company": {
+      "id": "6023b0488b4e6302ff2dbfaa",
+      "name": "Vesta Service"
+    }
+  },
+  "room": {
+    "id": "66d6f66accef64a273077e35",
+    "_id": "66d6f66accef64a273077e35",
+    "floor_number": "7",
+    "porch_number": "5",
+    "apartment_number": "235",
+    "type": {
+      "id": "616958bd0b7a9927c42959b2",
+      "_id": "616958bd0b7a9927c42959b2",
+      "pretty_id": 1,
+      "name": "Квартира",
+      "sys_name": "apartment"
+    },
+    "activity": null,
+    "name": null
+  },
+  "company": {
+    "id": "6023b0488b4e6302ff2dbfaa",
+    "name": "Vesta Service"
+  },
+  "request_category": {
+    "id": "5f4cda330796c90b114f556a",
+    "name": "Отопление"
+  },
+  "request_type": {
+    "id": "5f4cda330796c90b114f5565",
+    "name": "исполнено",
+    "sys_name": "done"
+  },
+  "request_visibility": {
+    "id": "5f4cda320796c90b114f555e",
+    "name": "Индивидуальная"
+  },
+  "request_where_problem": {
+    "id": "65cf45d765804d3ded0b1ad5",
+    "name": "Квартира"
+  },
+  "user": {
+    "id": "665370e4704260fdae03f078",
+    "_id": "665370e4704260fdae03f078",
+    "name": "Алтай",
+    "surname": null,
+    "patronymic": null,
+    "phone": "+7-702-538-48-48",
+    "role": {
+      "id": "5f4cda2f0796c90b114f5539",
+      "_id": "5f4cda2f0796c90b114f5539",
+      "name_system": "user",
+      "name": "Пользователь"
+    },
+    "avatar": null,
+    "old_avatar": null,
+    "employee_positions": [],
+    "social_status": null
+  },
+  "user_created": {
+    "id": "665370e4704260fdae03f078",
+    "_id": "665370e4704260fdae03f078",
+    "name": "Алтай",
+    "surname": null,
+    "patronymic": null,
+    "phone": "+7-702-538-48-48",
+    "role": {
+      "id": "5f4cda2f0796c90b114f5539",
+      "_id": "5f4cda2f0796c90b114f5539",
+      "name_system": "user",
+      "name": "Пользователь"
+    },
+    "avatar": null,
+    "old_avatar": null,
+    "employee_positions": [],
+    "social_status": null
+  },
+  "updated_at": {
+    "$date": "2024-11-13T05:17:44.226Z"
+  },
+  "created_at": {
+    "$date": "2024-11-10T07:31:41.393Z"
+  },
+  "history": [
+    {
+      "user": {
+        "id": "659cef2bccdcfa0797019ece",
+        "_id": "659cef2bccdcfa0797019ece",
+        "name": "Дмитрий",
+        "surname": "Бредихин",
+        "patronymic": "Сергеевич",
+        "phone": "+7-702-132-36-58",
+        "role": {
+          "id": "5f4cda2f0796c90b114f5537",
+          "_id": "5f4cda2f0796c90b114f5537",
+          "name_system": "ksk_employee",
+          "name": "Исполнитель"
+        },
+        "avatar": {
+          "resource": {
+            "incrementing": true,
+            "preventsLazyLoading": false,
+            "exists": true,
+            "wasRecentlyCreated": false,
+            "timestamps": true
+          },
+          "with": [],
+          "additional": []
+        },
+        "old_avatar": "storage/avatar/2024/01/131705117455/21.jpg",
+        "employee_positions": [
+          {
+            "id": "6724c6341fd13f776c0dac34",
+            "employee": {
+              "id": "5f4cda340796c90b114f5581",
+              "name": "Сантехник"
+            },
+            "ksk": {
+              "id": "6023b0488b4e6302ff2dbfaa",
+              "_id": "6023b0488b4e6302ff2dbfaa",
+              "name": "Vesta Service",
+              "is_branded": null,
+              "company_type": {
+                "id": "66448514f151b15e7104a612",
+                "sys_name": "ksk",
+                "name": "Управляющая компания"
+              },
+              "logo_image": null,
+              "main_background_image": null
+            }
+          }
+        ],
+        "social_status": null
+      },
+      "employee_comment": "Отработано ",
+      "request_type": {
+        "id": "5f4cda330796c90b114f5565",
+        "name": "исполнено",
+        "sys_name": "done"
+      },
+      "created_at": {
+        "$date": "2024-11-10T09:49:12.000Z"
+      },
+      "type": "done"
+    },
+    {
+      "user": {
+        "id": "659cef2bccdcfa0797019ece",
+        "_id": "659cef2bccdcfa0797019ece",
+        "name": "Дмитрий",
+        "surname": "Бредихин",
+        "patronymic": "Сергеевич",
+        "phone": "+7-702-132-36-58",
+        "role": {
+          "id": "5f4cda2f0796c90b114f5537",
+          "_id": "5f4cda2f0796c90b114f5537",
+          "name_system": "ksk_employee",
+          "name": "Исполнитель"
+        },
+        "avatar": {
+          "resource": {
+            "incrementing": true,
+            "preventsLazyLoading": false,
+            "exists": true,
+            "wasRecentlyCreated": false,
+            "timestamps": true
+          },
+          "with": [],
+          "additional": []
+        },
+        "old_avatar": "storage/avatar/2024/01/131705117455/21.jpg",
+        "employee_positions": [
+          {
+            "id": "6724c6341fd13f776c0dac34",
+            "employee": {
+              "id": "5f4cda340796c90b114f5581",
+              "name": "Сантехник"
+            },
+            "ksk": {
+              "id": "6023b0488b4e6302ff2dbfaa",
+              "_id": "6023b0488b4e6302ff2dbfaa",
+              "name": "Vesta Service",
+              "is_branded": null,
+              "company_type": {
+                "id": "66448514f151b15e7104a612",
+                "sys_name": "ksk",
+                "name": "Управляющая компания"
+              },
+              "logo_image": null,
+              "main_background_image": null
+            }
+          }
+        ],
+        "social_status": null
+      },
+      "request_type": {
+        "id": "5f4cda330796c90b114f5561",
+        "name": "в работе",
+        "sys_name": "in_work"
+      },
+      "created_at": {
+        "$date": "2024-11-10T07:41:44.000Z"
+      },
+      "type": "in_work"
+    },
+    {
+      "user": {
+        "id": "61ed2a51d8062c39195ee06c",
+        "_id": "61ed2a51d8062c39195ee06c",
+        "name": "Координатор",
+        "surname": "#1",
+        "patronymic": ".",
+        "phone": "+7-702-203-43-34",
+        "role": {
+          "id": "5f4cda2f0796c90b114f5536",
+          "_id": "5f4cda2f0796c90b114f5536",
+          "name_system": "ksk_manager",
+          "name": "Менеджер кск"
+        },
+        "avatar": null,
+        "old_avatar": null,
+        "employee_positions": [
+          {
+            "id": "671f8455647e158c2c0bb190",
+            "employee": {
+              "id": "6011093327155e111deb0a55",
+              "name": "Руководитель"
+            },
+            "ksk": {
+              "id": "6023b0488b4e6302ff2dbfaa",
+              "_id": "6023b0488b4e6302ff2dbfaa",
+              "name": "Vesta Service",
+              "is_branded": null,
+              "company_type": {
+                "id": "66448514f151b15e7104a612",
+                "sys_name": "ksk",
+                "name": "Управляющая компания"
+              },
+              "logo_image": null,
+              "main_background_image": null
+            }
+          }
+        ],
+        "social_status": null
+      },
+      "request_type": {
+        "id": "5f4cda320796c90b114f5560",
+        "name": "назначено",
+        "sys_name": "accepted"
+      },
+      "created_at": {
+        "$date": "2024-11-10T07:40:56.000Z"
+      },
+      "type": "accepted"
+    },
+    {
+      "user": {
+        "id": "665370e4704260fdae03f078",
+        "_id": "665370e4704260fdae03f078",
+        "name": "Алтай",
+        "surname": null,
+        "patronymic": null,
+        "phone": "+7-702-538-48-48",
+        "role": {
+          "id": "5f4cda2f0796c90b114f5539",
+          "_id": "5f4cda2f0796c90b114f5539",
+          "name_system": "user",
+          "name": "Пользователь"
+        },
+        "avatar": null,
+        "old_avatar": null,
+        "employee_positions": [],
+        "social_status": null
+      },
+      "request_type": {
+        "id": "5f4cda320796c90b114f555f",
+        "name": "новая",
+        "sys_name": "new"
+      },
+      "created_by": "user",
+      "created_at": {
+        "$date": "2024-11-10T07:31:41.000Z"
+      },
+      "type": "new"
+    }
+  ],
+  "manager": {
+    "id": "61ed2a51d8062c39195ee06c",
+    "_id": "61ed2a51d8062c39195ee06c",
+    "name": "Координатор",
+    "surname": "#1",
+    "patronymic": ".",
+    "phone": "+7-702-203-43-34",
+    "role": {
+      "id": "5f4cda2f0796c90b114f5536",
+      "_id": "5f4cda2f0796c90b114f5536",
+      "name_system": "ksk_manager",
+      "name": "Менеджер кск"
+    },
+    "avatar": null,
+    "old_avatar": null,
+    "employee_positions": [
+      {
+        "id": "6745a5c8f2b584dc350f82bd",
+        "employee": {
+          "id": "6011093327155e111deb0a55",
+          "name": "Руководитель"
+        },
+        "ksk": {
+          "id": "6023b0488b4e6302ff2dbfaa",
+          "_id": "6023b0488b4e6302ff2dbfaa",
+          "name": "Vesta Service",
+          "is_branded": null,
+          "company_type": {
+            "id": "66448514f151b15e7104a612",
+            "sys_name": "ksk",
+            "name": "Управляющая компания"
+          },
+          "logo_image": null,
+          "main_background_image": null
+        }
+      }
+    ],
+    "social_status": null
+  },
+  "period_execution": {
+    "$date": "2024-11-12T00:00:00.000Z"
+  },
+  "employee_worker_executor": {
+    "id": "659cef2bccdcfa0797019ece",
+    "_id": "659cef2bccdcfa0797019ece",
+    "name": "Дмитрий",
+    "surname": "Бредихин",
+    "patronymic": "Сергеевич",
+    "phone": "+7-702-132-36-58",
+    "role": {
+      "id": "5f4cda2f0796c90b114f5537",
+      "_id": "5f4cda2f0796c90b114f5537",
+      "name_system": "ksk_employee",
+      "name": "Исполнитель"
+    },
+    "avatar": {
+      "resource": {
+        "incrementing": true,
+        "preventsLazyLoading": false,
+        "exists": true,
+        "wasRecentlyCreated": false,
+        "timestamps": true
+      },
+      "with": [],
+      "additional": []
+    },
+    "old_avatar": "storage/avatar/2024/01/131705117455/21.jpg",
+    "employee_positions": [
+      {
+        "id": "67331045c1cdf4fa7c0355c0",
+        "employee": {
+          "id": "5f4cda340796c90b114f5581",
+          "name": "Сантехник"
+        },
+        "ksk": {
+          "id": "6023b0488b4e6302ff2dbfaa",
+          "_id": "6023b0488b4e6302ff2dbfaa",
+          "name": "Vesta Service",
+          "is_branded": null,
+          "company_type": {
+            "id": "66448514f151b15e7104a612",
+            "sys_name": "ksk",
+            "name": "Управляющая компания"
+          },
+          "logo_image": null,
+          "main_background_image": null
+        }
+      }
+    ],
+    "social_status": null
+  },
+  "employee_comment": "Отработано ",
+  "user_comment": "",
+  "user_rating": 5
+}]
